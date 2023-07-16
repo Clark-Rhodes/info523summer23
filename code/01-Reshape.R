@@ -6,6 +6,8 @@
 
 # Values in column names 
 
+# I'm adding some notes here for the homework
+
 raw <- read.csv("data/pew.csv", check.names = F)
 
 head(raw)
